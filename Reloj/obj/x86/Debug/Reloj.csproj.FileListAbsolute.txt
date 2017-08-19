@@ -7,3 +7,4 @@ C:\Users\clemente\Documents\Visual Studio 2010\Projects\Reloj\Reloj\obj\x86\Debu
 C:\Users\clemente\Documents\Visual Studio 2010\Projects\Reloj\Reloj\obj\x86\Debug\Reloj.pdb
 C:\Users\clemente\Documents\Visual Studio 2010\Projects\Reloj\Reloj\obj\x86\Debug\Reloj.CadenaUnicode.resources
 C:\Users\clemente\Documents\Visual Studio 2010\Projects\Reloj\Reloj\bin\Debug\Reloj.XML
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\Reloj\Reloj\obj\x86\Debug\Reloj.csprojResolveAssemblyReference.cache

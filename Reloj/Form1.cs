@@ -53,7 +53,7 @@ namespace Reloj
             if (contador > total && total != 0)
             {
                 Console.Beep(5000, 1000);
-
+                lbl_total.Text = "0";
 
             }
                        
@@ -99,9 +99,7 @@ namespace Reloj
 
         private void btn_cancelar_Click(object sender, EventArgs e)
         {
-            cuentatiempo = false;
-
-            
+            cuentatiempo = false;            
             lbl_total.Text = "0000";
             contador = hr = min = sec = total = aux = 0;
         }
